@@ -149,6 +149,7 @@ h1{
 }
 .info-projetos{
     margin-bottom: 5px;
+    margin-left: 6px;
 }
 .info-projetos a{
     color: var(--claro);
@@ -207,6 +208,7 @@ i{
 p{
     padding: 6px;
 }
+
 @keyframes flutuar {
     0%,100%{
         transform: translateY(0);
